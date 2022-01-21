@@ -278,16 +278,16 @@ INSERT INTO produto
 VALUES (4, 25, 250, 'Pomada modeladora', 4);
 
 INSERT INTO produto
-VALUES (5, 10, 250, 'Creme cachos skala', 3);
+VALUES (5, 10, 250, 'Creme cachos skala', 5);
 
 INSERT INTO produto
-VALUES (6, 70, 300, 'Shampoo e Condicionador Salon Line', 2);
+VALUES (6, 70, 300, 'Shampoo e Condicionador Salon Line', 6);
 
 INSERT INTO produto
 VALUES (7, 15, 110, 'Conjunto Navalha', 7);
 
 INSERT INTO produto
-VALUES (8, 16, 110, 'Esponja para cabelo crespos', 2);
+VALUES (8, 16, 110, 'Esponja para cabelo crespos', 8);
 
 INSERT INTO produto
 VALUES (9, 10, 150, 'Garfo black', 9);
