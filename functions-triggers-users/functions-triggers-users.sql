@@ -18,11 +18,9 @@ $$ LANGUAGE 'plpgsql';
 
 SELECT qtd_produtos_que_determinado_fornecedor_fornece('bruno');
 SELECT qtd_produtos_que_determinado_fornecedor_fornece('felipe');
+
+
 -- (b) Criar um gatilho (Trigger) NAO relacionado ao procedimento do item item (a)
-
-/*
-
-*/
 
 -- Tabela para registrar os log's em relacao a alteracao nos produtos
 CREATE TABLE IF NOT EXISTS log_produto (
